@@ -1,3 +1,7 @@
 <resources>
-    <string name="app_name">I Am Poor</string>
+    <string name="app_name">I Am Poor for Now</string>
+    <string name="title">You Are Only Poor At This Moment In Time</string>
+    <string name="text">"Do not remain content with your current situation. You have one life, so live it!"</string>
+    <string name="image_description">diamond image</string>
+    <string name="image_desription">color effect</string>
 </resources>
